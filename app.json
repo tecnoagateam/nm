@@ -38,7 +38,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Max Time Limit For One Song. Fill in Minutes",
-      "required": false,
+      "required": false
       "value": "35"
       
     },
@@ -59,7 +59,7 @@
     },
     "ARQ_API_KEY": {
       "description": "Your ARQ API key! Get your own with @ARQRobot !",
-      "required": false,
+      "required": false
       "value": ""
     },
     "HEROKU_APP_NAME": {
@@ -74,17 +74,17 @@
     },
     "UPSTREAM_REPO": {
       "description": "Github Repo Url. Only needed if you are using your own Fork!",
-      "required": false,
+      "required": false
       "value": "https://github.com/tecnoagateam/nm"
     },
     "THUMB_URL": {
       "description": "Thumbnail Url To Use in play, search commands. Add this only if you need a custom one instead of default thumbnail",
-      "required": false,
+      "required": false
       "value": "https://telegra.ph/file/2ed47c81eda6b0624021d.jpg"
     },
     "UPDATES_CHANNEL": {
       "description": "Your Telegram Channel's Username without '@' . Not Needed by Default!",
-      "required": false,
+      "required": false
       "value": "ledyplaylist"
     }
   }
