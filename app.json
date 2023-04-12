@@ -44,7 +44,7 @@
     },
     "LOG_CHANNEL": {
       "description": "Log Channel Where Bot Logs Go!",
-      "required": true,
+      "required": true
       "value": "-1001679945097"
     },
     "DATABASE_URL": {
@@ -64,12 +64,12 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Your Heroku App Name!",
-      "required": true,
+      "required": true
       "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku Api Key!",
-      "required": true,
+      "required": true
       "value": ""
     },
     "UPSTREAM_REPO": {
