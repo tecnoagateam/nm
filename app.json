@@ -9,12 +9,12 @@
     "API_ID": {
       "description": "Your API_ID from my.telegram.org",
       "required": true
-      "value": ""
+      "value": "18052289"
     },
     "API_HASH": {
       "description": "Your API_HASH from my.telegram.org",
       "required": true
-      "value": ""
+      "value": "552525f45a3066fee54ca7852235c19c"
     },
     "SESSION_NAME": {
       "description": "Streamer(Dummy) Account's Pyrogram String Session. Read wiki.",
