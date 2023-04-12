@@ -19,22 +19,22 @@
     "SESSION_NAME": {
       "description": "Streamer(Dummy) Account's Pyrogram String Session. Read wiki.",
       "required": true
-      "value": ""
+      "value": "AgClBHUsSGWhIN-lgq5LuPS3NZPOI2q-dwRHF6DMzVdRfm5yBzLcJqXSlEZdf0iLIMFcC2YVEr9M1hFc2vx2QKxRgSvhCSSu79YeY_H7qJ4vz_ScnoIjs2kmGVd6RcUERrCNECQvyhk_qZiqjgk5n3JNzQNUPztt5ynK-HbHYwQx8tF3DdQPFI-mRIfzJnsdoTGMX_Yin7cG7XjF-nXV5tmEFPL0scIl_VCrVm4Ezgm8d9U9ThMoga-Ptxhl1hlSQvQNThdioVbVN3cMhC9QC_0278J8GCqy2EyOi_w2CkImQznsQpchozdSeONHrZwCmBi_tkZzVGnV9yHqrd-wM660Wp7lFQA"
     },
     "BOT_TOKEN": {
       "description": "Your Bot Token From @BotFather",
       "required": true
-      "value": ""
+      "value": "6254171749:AAFn9tbZaVK4nTuhAbYX6mVqzVPYpJ-YdNk"
     },
     "BOT_OWNER": {
       "description": "Telegram Id Of yours!",
       "required": true
-      "value": ""
+      "value": "1924693109"
     },
     "SUDO_USERS": {
       "description": "ID's of Sudo Users. They admins everywhere (separate each id by space)",
       "required": true
-      "value": ""
+      "value": "1924693109"
     },
     "DURATION_LIMIT": {
       "description": "Max Time Limit For One Song. Fill in Minutes",
@@ -45,7 +45,7 @@
     "LOG_CHANNEL": {
       "description": "Log Channel Where Bot Logs Go!",
       "required": true,
-      "value": ""
+      "value": "-1001679945097"
     },
     "DATABASE_URL": {
       "description": "Mongo Db url. Get it from https://www.mongodb.com/",
@@ -55,7 +55,7 @@
     "BOT_USERNAME": {
       "description": "Your Bot's Username without '@' !",
       "required": true
-      "value": "Nilaymusicbot"
+      "value": "nilaymusicbot"
     },
     "ARQ_API_KEY": {
       "description": "Your ARQ API key! Get your own with @ARQRobot !",
